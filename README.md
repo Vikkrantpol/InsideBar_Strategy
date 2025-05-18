@@ -56,3 +56,7 @@ The following results were obtained by running the original (unmasked) script on
 - 2025-03: 88.39%
 - 2025-04: 47.32%
 - 2025-05: -32.46%
+
+## Disclaimer
+
+This script is not for any kind of use. Trading involves significant risk, and past performance is not indicative of future results.
