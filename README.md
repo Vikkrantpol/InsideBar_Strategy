@@ -4,6 +4,27 @@ This project demonstrates a framework for backtesting and visualizing the Inside
 
 ## Results
 
+### Visualizations:
+
+#### Equity Curve: Shows capital growth over time with max drawdown highlighted.
+![equity_curve_BTC4h](https://github.com/user-attachments/assets/7458a855-80bb-4dbf-98c2-dc88191f0065)
+
+
+
+#### Monthly Profit Percentage: Bar chart of monthly performance.
+![monthly_profit_pct_BTC4h](https://github.com/user-attachments/assets/cea4326a-82bb-4a9c-94a9-0020f7763ca3)
+
+
+
+#### OHLC Chart: Candlestick chart with buy/sell signals.
+![ohlc_chart_fixed_BTC4h](https://github.com/user-attachments/assets/abf71279-8e48-428d-90a9-40213752ed47)
+
+
+
+#### Summary Dashboard: A consolidated view of key metrics, equity curve, and monthly profits.
+![summary_dashboard_BTC4h](https://github.com/user-attachments/assets/d151f438-a36c-4c21-b64c-84ae0695b44d)
+
+
 The following results were obtained by running the original (unmasked) script on BTC/USD 4-hour data:
 
 ### Backtest Results:
